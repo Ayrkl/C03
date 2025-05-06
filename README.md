@@ -1,3 +1,5 @@
+📦 Contents
+
 ex00: ft_strcmp
 Compares two strings character by character.
 Returns the difference between the first pair of differing characters, similar to the strcmp function.
